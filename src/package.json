@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "material-ui": "next"
+  }
+}

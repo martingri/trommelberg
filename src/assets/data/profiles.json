@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Martin Grimeland",
+    "title": "SOFTWARE ENGINEER, CTO FOR-HIRE, CLEAN CODE EVANGELIST",
+    "pitch": [
+      "Martin has a Master’s degree in Computer Science and has worked for more than 12 years in software development. To give him a better understanding of business Martin studied MBA courses at Boston University after he finished his Master's degree. With a mix of deep technical knowledge and good business understanding Martin has worked in strategic positions with responsibility as lead developer and chief architect. In these positions Martin has gained lots of experience building and putting together teams, creating products from scratch and developing business and product strategies. Martin has always been interested in the fast paced and transparent nature of Startups and has worked in many different startups since his first job in 2006. The latest startup Martin joined was Kahoot! in 2014. He had the role of  Head of Engineering and was one of the first to join Kahoot!. Martin played an important part in shaping the company and Kahoot! gained huge global traction, growing to 50 million monthly active users all over the world. During this time Martin scaled up Kahoot!'s engineering team across multiple disciplines and over 3 continents to handle the increased demand."
+    ],
+    "education": [
+      {
+        "authority": "Oslo University",
+        "degree": "Master's Degree Computer Science",
+        "years": "2004 - 2006"
+      },
+      {
+        "authority": "Boston University",
+        "degree": "Advanced Entrepreneurship Program",
+        "years": "2006"
+      },
+      {
+        "authority": "Oslo University",
+        "degree": "BA, Computer Science",
+        "years": "2000 - 2003"
+      }
+    ],
+    "expertise": [
+      "Full-Stack System Development",
+      "System Design and Architecture",
+      "Clean Code Evangelist"
+    ],
+    "experience": [
+      "Extensive experience in Startups designing and contributing to business strategies",
+      "Scaling, tuning and managing engineering teams.",
+      "Strong interest and focus on Clean Code and Lean Principles.",
+      "Works focused with excellent analytical skills and great in teams."
+    ],
+    "profileImage": "MartinGrimelandCV-scaled.png"
+  },
+  {
+    "name": "Amy Vidler",
+    "title": "PRODUCT DESIGNER AND LEAD UX DESIGNER FOR-HIRE",
+    "pitch": [
+      "Amy has worked as a designer within the graphic, product and web fields since 2005. The majority of her work experience has been with creating user-friendly applications.",
+      "Disciplines in which Amy work on a regular basis include interaction design, visual design, usability, user research, responsive web design and information architecture. She has a good understanding of HTML, CSS and some Javascript. Amy enjoys working in multidisciplinary teams, developing design guidelines, leadership and project management.",
+      "Amy's professional interest lies in a combination of user experience design, product development and management to create web-based products and services that are beautiful, useful and driven by user-centred business development principles."
+    ],
+    "education": [
+      {
+        "authority": "Queensland College of Art, Griffith University",
+        "degree": "BA, Design; Product and Graphic major",
+        "years": "2002 – 2005"
+      },
+      {
+        "authority": "Queensland College of Art, Griffith University",
+        "degree": "BA, Fine Art",
+        "years": "2001 – 2002"
+      }
+    ],
+    "expertise": [
+      "User centred design for web and native platforms.",
+      "Product concept and user behaviour testing/research.",
+      "Interaction design, visual design and usability.",
+      "Visual and interaction product portfolio guidelines."
+    ],
+    "experience": [
+      "Early phase product conceptulisation.",
+      "Facilitating and laying down ground work for maturing ideas.",
+      "Lead UX and team managment.",
+      "Ensuring a recognisable experience across a product portfolio."
+    ],
+    "profileImage": "AmyVidlerCV-pic.jpg"
+  }
+]
