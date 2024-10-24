@@ -1,16 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { withStyles } from '@mui/styles';
-import LogoImg from '../assets/img/HP-logo-green-new.svg';
+import LogoImg from '../assets/img/Trommelberg.png';
 
 const styles = theme => ({
   logo: {
     height: '1.5em',
-    paddingTop: '.4em',
+    paddingTop: '0.4em',
   },
 });
 
-function Logo(props) {
+export function NoStyleLogo(props) {
   const { classes } = props;
 
   return (
@@ -18,8 +18,8 @@ function Logo(props) {
   );
 }
 
-Logo.propTypes = {
+NoStyleLogo.propTypes = {
   classes: PropTypes.object.isRequired,
 };
 
-export default withStyles(styles)(Logo);
+export default withStyles(styles)(NoStyleLogo);

@@ -7,7 +7,7 @@ import { Parallax } from 'react-parallax';
 
 const styles = theme => ({
   banner: {
-    height: '70vh',
+    height: '98vh',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
   },
@@ -32,7 +32,7 @@ function Banner(props) {
       <Parallax
       bgImage={bannerImg}
       strength={200}>
-      <div style={{ height: '70vh', paddingTop: '64px' }} >
+      <div style={{ height: '100%', paddingTop: '0px' }} >
         <Grid container className={classes.banner}
           alignItems='center'
           direction='column'
