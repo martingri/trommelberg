@@ -26,7 +26,7 @@ function AboutUs(props) {
           About us
         </Typography>
         <Typography variant="body1" gutterBottom align="left">
-          Human Perspective works on web and native applications that are made for humans and have a positive social impact. We develop our own concepts and work with like minded businesses on their products. With extensive experience shaping, designing and building ground-breaking new products our expertise is product design and concept development. Human Perspective is based in Newcastle, Australia with strong connections to Oslo, Norway and London, UK.</Typography>
+          Trommelberg Gård works on web and native applications that are made for humans and have a positive social impact. We develop our own concepts and work with like minded businesses on their products. With extensive experience shaping, designing and building ground-breaking new products our expertise is product design and concept development. Trommelberg Gård is based in Newcastle, Australia with strong connections to Oslo, Norway and London, UK.</Typography>
         <Typography variant="body1" gutterBottom align="left">
           We believe in lean product development principles and that great communication is essential for a successful project. When we’re involved in projects that requires a bigger team or specialists, we scale up the team with professionals in our network who we know and trust.
         </Typography>

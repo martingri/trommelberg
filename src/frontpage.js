@@ -3,7 +3,6 @@ import { makeStyles } from '@mui/styles'
 import { ThemeProvider, StyledEngineProvider, createTheme } from '@mui/material/styles';
 import Grid from '@mui/material/Grid';
 import Hidden from '@mui/material/Hidden';
-import BurgerMenu from './components/burger-menu';
 import HorizontalMenu from './components/horizontal-menu';
 import Banner from './components/banner';
 import AboutUs from './components/about-us';
@@ -120,11 +119,6 @@ function Frontpage(props) {
             <Hidden mdDown>
               <AppBar position="fixed" className={classes.topNavigation} elevation={0}>
                 <HorizontalMenu />
-              </AppBar>
-            </Hidden>
-            <Hidden mdUp>
-            <AppBar position="fixed" className={classes.topNavigation} elevation={0}>
-                <BurgerMenu />
               </AppBar>
             </Hidden>
             <Grid style={{padding: '0px' }} item xs={12}>

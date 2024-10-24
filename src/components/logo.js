@@ -14,7 +14,7 @@ function Logo(props) {
   const { classes } = props;
 
   return (
-    <img src={LogoImg} alt="Human Perspective" className={classes.logo}/>
+    <img src={LogoImg} alt="Trommelberg Gård" className={classes.logo}/>
   );
 }
 
