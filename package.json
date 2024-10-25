@@ -2,7 +2,7 @@
   "name": "x3r1539x8w",
   "description": "Home page for Trommelberg Gård",
   "version": "0.0.0",
-  "homepage": "http://www.Trommelberg.no",
+  "homepage": "http://martingri.github.io/trommelberg/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
