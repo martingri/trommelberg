@@ -25,6 +25,7 @@
     "typeface-roboto": "0.0.54"
   },
   "devDependencies": {
+    "@testing-library/react": "^12.1.5",
     "gh-pages": "^1.1.0",
     "react-scripts": "latest"
   },
@@ -38,7 +39,8 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%"    ],
+      ">0.2%"
+    ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
