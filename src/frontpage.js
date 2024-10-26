@@ -110,9 +110,8 @@ function Frontpage(props) {
         <div className={classes.root}>
           <Grid style={{ backgroundColor: '#f9f6f4' }} container>
             <Grid style={{ padding: '0px' }} item xs={12}>
-              <Banner bannerImg={topBannerImg} bannerText={<Grid item xs={1}>
+              <Banner bannerImg={topBannerImg} bannerText={
                 <BigLogo />
-              </Grid>
               } />
             </Grid>
           </Grid>
